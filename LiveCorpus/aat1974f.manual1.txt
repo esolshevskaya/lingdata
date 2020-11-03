@@ -1,3 +1,7 @@
+Id	Form	Lemma	UPosTag	XPosTag	Feats	Head	DepRel	Deps	Misc
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = russian-syntagrus-ud-2.6-200830
+# udpipe_model_licence = CC BY-NC-SA
 words@aat1974f	@aat1974f	0.69	0.85	бизнес
 words@aat1974f	@aat1974f	0.85	1.01	/
 words@aat1974f	@aat1974f	1.01	1.17	/
@@ -827,7 +831,7 @@ words@aat1974f	@aat1974f	265.194	265.351	что
 words@aat1974f	@aat1974f	265.351	265.508	вам
 words@aat1974f	@aat1974f	265.508	265.665	хочется
 words@aat1974f	@aat1974f	265.665	265.822	чтоб
-words@aat1974f	@aat1974f	265.822	265.979	мыь
+words@aat1974f	@aat1974f	265.822	265.979	мы
 words@aat1974f	@aat1974f	265.979	266.136	/
 words@aat1974f	@aat1974f	266.136	266.297	/
 words@aat1974f	@aat1974f	266.517	266.681	для
@@ -1255,7 +1259,7 @@ words@aip1988m	@aip1988m	282.4	282.6	обещаю
 words@aip1988m	@aip1988m	282.6	282.8	/
 words@aip1988m	@aip1988m	282.8	283.0	мы
 words@aip1988m	@aip1988m	283.0	283.2	/
-words@aip1988m	@aip1988m	283.21	283.495	разберм
+words@aip1988m	@aip1988m	283.21	283.495	разберём
 words@aip1988m	@aip1988m	283.495	283.78	/
 words@aip1988m	@aip1988m	283.785	283.985	все
 words@aip1988m	@aip1988m	283.985	284.185	/
