@@ -6,7 +6,7 @@
 6	которого	который	PRON	_	Case=Gen	_	_	_	words@aat1974f#@aat1974f#3.136#3.359
 7	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@aat1974f#@aat1974f#3.359#3.582
 8	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@aat1974f#@aat1974f#3.582#3.805
-9	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@aat1974f#@aat1974f#3.805#4.028									
+9	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@aat1974f#@aat1974f#3.805#4.028
 10	не	не	PART	_	_	_	_	_	words@aat1974f#@aat1974f#4.028#4.251
 11	страшно	страшный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@aat1974f#@aat1974f#4.251#4.474
 12	/	/	PUNCT	_	_	_	_	_	words@aat1974f#@aat1974f#4.474#4.7
